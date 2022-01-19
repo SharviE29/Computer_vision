@@ -1,1 +1,3 @@
-# Computer_vision_course
+# Computer_vision
+
+ Contains code backup on image processing currently.
